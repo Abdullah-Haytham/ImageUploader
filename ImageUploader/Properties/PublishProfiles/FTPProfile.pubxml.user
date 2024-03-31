@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuL9YCuEAMEKvJmWfseP+dgAAAAACAAAAAAAQZgAAAAEAACAAAABZnDjIGflL4U3SxWB5vDYudkpgyEucdGdKJDhbUJhFhgAAAAAOgAAAAAIAACAAAAATy0CuKg0uzG6k0Zr/54wN5HBCGfLNny8BP47R63NnYyAAAAAcEW98XSj83+YCt63jnqCEGgMegWh3gBag3hV4BXsDXEAAAAAKgweZiUUfg6MbyW1JaU+RPi36OxJI5OCP9l6wGOiEUy+tNOZbereQi+CYq0k8SHyLpLrMbx+c2sZZu2VAXItP</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ImageUploader.somee.com/www.ImageUploader.somee.com</_PublishTargetUrl>
+    <History>True|2024-03-31T12:49:55.2322769Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/26/2024 22:07:50</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/26/2024 22:07:50</publishTime>
+    </File>
+    <File Include="images.json">
+      <publishTime>03/30/2024 19:07:32</publishTime>
+    </File>
+    <File Include="ImageUploader.deps.json">
+      <publishTime>03/31/2024 14:48:48</publishTime>
+    </File>
+    <File Include="ImageUploader.dll">
+      <publishTime>03/31/2024 14:48:48</publishTime>
+    </File>
+    <File Include="ImageUploader.exe">
+      <publishTime>03/31/2024 14:48:48</publishTime>
+    </File>
+    <File Include="ImageUploader.pdb">
+      <publishTime>03/31/2024 14:48:48</publishTime>
+    </File>
+    <File Include="ImageUploader.runtimeconfig.json">
+      <publishTime>03/31/2024 14:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>02/17/2024 00:25:30</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>09/26/2022 14:32:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 17:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 17:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 17:21:48</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>05/15/2018 15:29:40</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/31/2024 14:49:00</publishTime>
+    </File>
+    <File Include="wwwroot/index.html">
+      <publishTime>03/30/2024 17:28:09</publishTime>
+    </File>
+    <File Include="wwwroot/script.js">
+      <publishTime>03/30/2024 19:07:16</publishTime>
+    </File>
+    <File Include="wwwroot/style.css">
+      <publishTime>03/30/2024 16:04:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
