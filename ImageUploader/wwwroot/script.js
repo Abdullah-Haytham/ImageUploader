@@ -26,7 +26,6 @@ document.getElementById("form").addEventListener('submit', (e) => {
     formData.append("title", titleInput.value)
     formData.append("file", fileInput.files[0], fileInput.files[0].name)
 
-    console.log(formData.get("title"))
 
     fetch("/upload", {
         method: "POST",
